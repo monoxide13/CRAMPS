@@ -2,7 +2,7 @@
 This repo is where you'll find the device tree files and instructions on how to be able to use CRAMPS on the Beagle Board Black. This has changed a lot over recent years, so if it becomes out of date again please open an issue.
 
 ##STATUS
-This code is still in developement. Most of the command I've tested but are transposed over. If you come across errors please create an issue.
+This is outdated! The code had to be rewritten and has not been merged to Klipper main branch yet. Please see this [discourse thread](https://klipper.discourse.group/t/beaglebone-on-debian-11-7-searching-testers/14076). Kudos to Ga-Ol-St for the hardwork.
 Written for Debian 10.3
 
 ###TODO:
