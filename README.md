@@ -1,14 +1,9 @@
 # CRAMPS and Klipper on the Beaglebone
 This repo is where you'll find the device tree files and instructions on how to be able to use CRAMPS on the Beagle Board Black. This has changed a lot over recent years, so if it becomes out of date again please open an issue.
 
-##STATUS
+## STATUS
 This is outdated! The code had to be rewritten and has not been merged to Klipper main branch yet. Please see this [discourse thread](https://klipper.discourse.group/t/beaglebone-on-debian-11-7-searching-testers/14076). Kudos to Ga-Ol-St for the hardwork.
 Written for Debian 10.3
-
-###TODO:
-Write script to configure pins.
-Figure out the loading of DTO into UBOOT.
-Create working configuration file for Klipper.
 
 ## What is CRAMPS?
 [CRAMPS](https://github.com/cdsteinkuehler/bobc_hardware/tree/CRAMPS/CRAMPS) is a cape for the [Beagle Bone Black](https://beagleboard.org/black). It allows control of 6 stepper motors using Pololu Drivers and control of heaters and outputs via multiple FETs. It also has inputs for 6 end stops, 4 thermistors, and an E-stop. CRAMPS originated from RAMPS, which was designed for an Arduino.
